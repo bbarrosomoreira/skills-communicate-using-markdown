@@ -10,3 +10,6 @@
 ``` java
 String senha = "123456";
 ```
+- [ ] Be happy
+- [ ] Be cool
+- [ ] Be free
